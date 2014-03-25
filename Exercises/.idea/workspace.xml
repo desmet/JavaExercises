@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6752a6f3-64a0-4d45-bb99-21c4f0dc90c7" name="Questions and Exercises: Interfaces, ex. 2" comment="new interface">
+    <list default="true" id="6752a6f3-64a0-4d45-bb99-21c4f0dc90c7" name="Questions and Exercises: Interfaces, ex. 2" comment="~">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercises.iml" afterPath="$PROJECT_DIR$/Exercises.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java" afterPath="$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="QE_Interfaces_ex1.iws" />
@@ -69,19 +72,8 @@
       <file leaf-file-name="CSimpl.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="91" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+            <state line="10" column="43" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="799">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CSimplTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimplTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="9" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -89,7 +81,16 @@
       <file leaf-file-name="TimeClient.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.325" vertical-offset="0" max-vertical-offset="680">
+            <state line="16" column="56" selection-start="532" selection-end="532" vertical-scroll-proportion="0.2924731" vertical-offset="0" max-vertical-offset="930">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="19" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="19057">
               <folding />
             </state>
           </provider>
@@ -123,10 +124,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="-30" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1280" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -139,7 +138,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -298,15 +297,15 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="project.propCompiler" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/svn/Trunk/Java/autotest" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="OverrideImplement.combined" value="true" />
@@ -317,6 +316,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -333,7 +333,7 @@
       <recent name="C:\Users\KovalevAS\Documents\desmet\JavaExercises\QE_Interfaces_ex1\src\Interfaces\Ex1\Ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CSimplTest.testSubSequence">
+  <component name="RunManager" selected="TestNG.CSimplTest.testLength">
     <configuration default="false" name="CSimplTest.testLength" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -513,19 +513,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="Exercises" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -551,6 +538,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -615,11 +615,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.CSimplTest.testSubSequence" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.CSimplTest.testToString" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.CSimplTest.testCharAt" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.CSimplTest.testCharAtOutOfBounds" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.CSimplTest.testLength" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.CSimplTest.testLength" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.CSimplTest.testSubSequence" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.CSimplTest.testToString" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.CSimplTest.testCharAt" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.CSimplTest.testCharAtOutOfBounds" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -648,7 +648,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="" name="Default" comment="" />
       <changelist id="6752a6f3-64a0-4d45-bb99-21c4f0dc90c7" name="Questions and Exercises: Interfaces, ex. 2" comment="" />
       <created>1394791787213</created>
       <updated>1394791787213</updated>
@@ -685,15 +684,19 @@
       <created>1395747769763</created>
       <updated>1395747769763</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="~">
+      <created>1395747782729</created>
+      <updated>1395747782729</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-30" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="1024" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3009901" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3009901" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -702,18 +705,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885212" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148515" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871288" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -765,17 +768,153 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="54" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="799">
+        <state line="10" column="43" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimplTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="37" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="578">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="16" column="56" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="19057">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="27" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/crucible/FORTS-AUTO/Trunk/Java/autotest/autotest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="45" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2873" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="19006">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="45" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="18377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="69" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="18054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="17680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="48" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="17289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="48" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="16983">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -788,11 +927,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="69" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="578">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="19" column="37" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="54" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="799">
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="69" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="578" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
@@ -804,11 +951,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="39" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="493">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="18" column="39" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="493" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
@@ -852,9 +995,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_21/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1944" column="24" selection-start="76803" selection-end="76803" vertical-scroll-proportion="0.0" vertical-offset="32265" max-vertical-offset="52292">
-          <folding />
-        </state>
+        <state line="1944" column="24" selection-start="76803" selection-end="76803" vertical-scroll-proportion="0.0" vertical-offset="32265" max-vertical-offset="52292" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_21/src.zip!/java/lang/StringBuffer.java">
@@ -874,30 +1015,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="23" selection-start="450" selection-end="450" vertical-scroll-proportion="0.29955947" vertical-offset="0" max-vertical-offset="681">
-          <folding />
-        </state>
+        <state line="12" column="23" selection-start="450" selection-end="450" vertical-scroll-proportion="0.29955947" vertical-offset="0" max-vertical-offset="681" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="91" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+        <state line="5" column="19" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="18054">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="9" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="6" column="44" selection-start="159" selection-end="159" vertical-scroll-proportion="0.15315315" vertical-offset="0" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex1/CSimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/crucible/FORTS-AUTO/Trunk/Java/autotest/autotest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="74" selection-start="2567" selection-end="2567" vertical-scroll-proportion="0.22413793" vertical-offset="357" max-vertical-offset="2873" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Interfaces/Ex2/TimeClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.325" vertical-offset="0" max-vertical-offset="680">
+        <state line="16" column="56" selection-start="532" selection-end="532" vertical-scroll-proportion="0.2924731" vertical-offset="0" max-vertical-offset="930">
           <folding />
         </state>
       </provider>
@@ -943,7 +1090,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
