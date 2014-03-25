@@ -1,6 +1,7 @@
 package Interfaces.Ex1;
 
 import org.testng.annotations.Test;
+import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 public class CSimplTest {
 
@@ -40,9 +41,9 @@ public class CSimplTest {
         }
     }
 
-    @Test
-    public void testSubSequence() throws Exception {
-
+    @Test(expectedExceptions = NotImplementedException.class)
+    public void testSubSequence(){
+        throw new NotImplementedException();
     }
 
     @Test
