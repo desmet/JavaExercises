@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="ba7a4d06-9833-4407-9fa5-d20c947de93b" name="Default" comment="">
+    <list default="true" id="6752a6f3-64a0-4d45-bb99-21c4f0dc90c7" name="Questions and Exercises: Interfaces, ex. 2" comment="new interface">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <list default="true" id="6752a6f3-64a0-4d45-bb99-21c4f0dc90c7" name="Questions and Exercises: Interfaces, ex. 2" comment="new interface" />
     <ignored path="QE_Interfaces_ex1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -650,7 +648,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba7a4d06-9833-4407-9fa5-d20c947de93b" name="Default" comment="" />
+      <changelist id="" name="Default" comment="" />
       <changelist id="6752a6f3-64a0-4d45-bb99-21c4f0dc90c7" name="Questions and Exercises: Interfaces, ex. 2" comment="" />
       <created>1394791787213</created>
       <updated>1394791787213</updated>
@@ -683,7 +681,11 @@
       <created>1395747753203</created>
       <updated>1395747753203</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="~">
+      <created>1395747769763</created>
+      <updated>1395747769763</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -735,7 +737,8 @@
     <MESSAGE value="Added some tests.&#10;" />
     <MESSAGE value="Modified some code." />
     <MESSAGE value="new interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="new interface" />
+    <MESSAGE value="~" />
+    <option name="LAST_COMMIT_MESSAGE" value="~" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
